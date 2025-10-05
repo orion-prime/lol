@@ -77,7 +77,7 @@ Petal Width	0.2
 
 Prediction: Iris-setosa
 
-![Iris App Screenshot](iris.jpg)
+![Iris App Screenshot](Screenshot 2025-10-02 190405.png)
 
 
 🧰 Technologies Used
