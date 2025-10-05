@@ -29,7 +29,8 @@ D:\knn_iris
 ├── scaler_knn.sav # Saved MinMaxScaler
 ├── iris.jpg # Image displayed in the UI
 └── README.md # Project documentation
-
+----
+iris.ipynb #model creation using jupyter
 ---
 
 ## ⚙️ Installation
